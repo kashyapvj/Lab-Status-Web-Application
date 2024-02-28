@@ -1,2 +1,2 @@
 # Lab-Status-Web-Application
-This Web Application will be used in the laboratories where it will show the status of the lab on the tablet fixed outside of the lab. 
+This is the project assigned by the company as per there requirement, it is a Web Application used in the laboratories where it will show the status of the lab on the tablet fixed outside of the lab. 
